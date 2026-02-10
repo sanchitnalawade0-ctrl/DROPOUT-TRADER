@@ -1,0 +1,7 @@
+{
+  "name": "DROPOUT TRADER - Professional Trading Journal",
+  "description": "A comprehensive trading journal and toolkit featuring a calendar-based entry system, position size calculator, Indian Market Hours, and strategic risk management guidelines.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
